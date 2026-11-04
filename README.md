@@ -1,6 +1,6 @@
 # Hi there, I'm a Cloud & Security Enthusiast! 🚀
 
-Welcome to my GitHub profile! I am a Computer Science student passionate about building resilient, scalable, and secure infrastructure. My professional focus centers on Cloud Engineering, Security, and DevOps, bridging the gap between modern deployment pipelines and robust defense-in-depth strategies.
+Welcome to my GitHub profile! I am a IT Graduate passionate about building resilient, scalable, and secure infrastructure. My professional focus centers on Cloud Engineering, Security, and DevOps, bridging the gap between modern deployment pipelines and robust defense-in-depth strategies.
 
 ## 🔭 What I Do & My Focus
 
