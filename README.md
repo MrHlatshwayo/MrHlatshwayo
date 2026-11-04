@@ -30,7 +30,8 @@ Welcome to my GitHub profile! I am a IT Graduate passionate about building resil
 
 ## 📊 GitHub Stats
 
-![MrHlatshwayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrHlatshwayo&show_icons=true&theme=transparent)
+[![GitHub followers](https://img.shields.io/github/followers/MrHlatshwayo?style=for-the-badge&logo=github)](https://github.com/MrHlatshwayo)
+[![GitHub repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMrHlatshwayo&query=%24.public_repos&label=public%20repositories&style=for-the-badge&logo=github)](https://github.com/MrHlatshwayo?tab=repositories)
 
 ## 📫 Connect With Me
 
